@@ -1,0 +1,6 @@
+Olá mundo !
+
+Aqui vocês vão encontrar algumas falhas, mas também vão se deparar com alguém que tenta melhorar e agregar conhecimento diáriamente.
+Neste repositório haverão arquivos que derivam do meu primeiro curso de git e GitHub e, outros que devo inventar na minha cabeça rs. 
+
+    Bem vindos ao início de mais uma jornada!
